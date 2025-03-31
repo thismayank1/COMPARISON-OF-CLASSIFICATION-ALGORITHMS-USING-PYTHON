@@ -33,3 +33,6 @@ This project compares different classification algorithms on a dataset to evalua
    ```bash
    git clone https://github.com/thismayank1/COMPARISON-OF-CLASSIFICATION-ALGORITHMS-USING-PYTHON.git
    cd COMPARISON-OF-CLASSIFICATION-ALGORITHMS-USING-PYTHON
+
+   pip install -r requirements.txt
+
