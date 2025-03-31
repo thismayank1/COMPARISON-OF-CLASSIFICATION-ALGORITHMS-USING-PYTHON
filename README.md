@@ -33,7 +33,7 @@ The target variable is **Outcome (0 = No, 1 = Yes)**.
 ### 🖥 Sample Output  
 **Best Performing Model:** Decision Tree (Accuracy: 97.78%)  
 Confusion Matrix:  
-[Confusion Matrix](![Screenshot 2025-04-01 012020](https://github.com/user-attachments/assets/1b465485-54d0-45cd-8ad3-478b06b49166))  
+![Confusion Matrix]![Screenshot 2025-04-01 012020](https://github.com/user-attachments/assets/1b465485-54d0-45cd-8ad3-478b06b49166))  
  
 
 ## 🖼️ Project Screenshot  
