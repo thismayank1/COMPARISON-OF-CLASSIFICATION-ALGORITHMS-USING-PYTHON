@@ -14,7 +14,13 @@ This project compares different classification algorithms on a dataset to evalua
 - ✅ Logistic Regression  
 - ✅ Decision Tree  
 - ✅ K-Nearest Neighbors (KNN)  
-- ✅ Passive Aggressive Classifier  
+- ✅ Passive Aggressive Classifier
+
+## 📂 Dataset Used 
+We used the **Diabetes Dataset** (source: [https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset]) with **769 rows & 9 features**.  
+The target variable is **Outcome (0 = No, 1 = Yes)**.  
+
+
 
 ## 📊 Results  
 | Algorithm                     | Accuracy  |
@@ -23,6 +29,13 @@ This project compares different classification algorithms on a dataset to evalua
 | ✅ KNN Classifier            | 0.782552  |
 | ✅ Logistic Regression       | 0.768229  |
 | ✅ Passive Aggressive Classifier | 0.532552  |
+
+### 🖥 Sample Output  
+**Best Performing Model:** Decision Tree (Accuracy: 97.78%)  
+Confusion Matrix:  
+![Confusion Matrix](![image](https://github.com/user-attachments/assets/55470652-e635-4bca-b19a-0c378d6a2889)
+)  
+ 
 
 ## 🖼️ Project Screenshot  
 ![Screenshot 2025-04-01 004635](https://github.com/user-attachments/assets/cc6f64da-f9c2-4df4-8a45-14193db3ce48)
@@ -34,6 +47,5 @@ This project compares different classification algorithms on a dataset to evalua
    git clone https://github.com/thismayank1/COMPARISON-OF-CLASSIFICATION-ALGORITHMS-USING-PYTHON.git
    cd COMPARISON-OF-CLASSIFICATION-ALGORITHMS-USING-PYTHON
 
-pip install -r requirements.txt
 
 
