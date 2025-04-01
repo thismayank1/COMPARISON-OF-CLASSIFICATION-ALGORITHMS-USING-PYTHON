@@ -1,5 +1,4 @@
-# COMPARISON-OF-CLASSIFICATION-ALGORITHMS-USING-PYTHON
-## 📊 Comparison of Classification Algorithms Using Python  
+# 📊 Comparison of Classification Algorithms Using Python  
 
 ## 🔍 Overview  
 This project compares different classification algorithms on a dataset to evaluate their performance based on accuracy, precision, recall, and F1-score. The goal is to identify the best-performing algorithm for a given dataset.
